@@ -8,7 +8,4 @@ summary: This links to the Center for Southwest Research and Special Collections
 thumbnail: assets/images/mic.jpg
 ---
 
-## Oral Histories 
-
-
-{% assign stories = site.pages | where: "homepage", true %} {% include nav/card-grid.html cards = stories %}
+## Links to Southwest Research and Special Collections Archive
