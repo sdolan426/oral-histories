@@ -14,19 +14,19 @@ We are conducting oral history interviews with place-based farmers in the Middle
 
 ### Team Members 
 
-<b>Dr. Marygold Walsh-Dilley</b>, University of New Mexico <br>
+**Dr. Marygold Walsh-Dilley**, University of New Mexico <br>
 *Associate Professor, Department of Geography & Environmental Studies* 
 
-<b>Casey Holland</b>, Chispas Farm <br> 
+**Casey Holland**, Chispas Farm <br> 
 *Farmer* 
 
-Sayrah Namaste, American Friends Service Committee - New Mexico  <br>
+**Sayrah Namaste**, American Friends Service Committee - New Mexico  <br>
 *Co-Program Director*
 
-Jacqueline Kelley-Cogdell, University of New Mexico  <br>
+**Jacqueline Kelley-Cogdell**, University of New Mexico  <br>
 *MS Graduate Student, Department of Geography & Enivornmental Studies* 
 
-Jessica Rowland, University of New Mexico  <br>
+**Jessica Rowland**, University of New Mexico  <br>
 *Senior Lecturer II & Associate Director, Sustainability Studies Program*
 
 ---
