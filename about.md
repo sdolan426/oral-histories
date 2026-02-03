@@ -24,7 +24,7 @@ We are conducting oral history interviews with place-based farmers in the Middle
 *Co-Program Director*
 
 **Jacqueline Kelley-Cogdell**, University of New Mexico  <br>
-*MS Graduate Student, Department of Geography & Enivornmental Studies* 
+*MS Graduate Student, Department of Geography & Enviornmental Studies* 
 
 **Jessica Rowland**, University of New Mexico  <br>
 *Senior Lecturer II & Associate Director, Sustainability Studies Program*
