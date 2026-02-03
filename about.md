@@ -5,7 +5,7 @@ css:
 homepage: TRUE
 position: 4
 summary: Project purpose and team members 
-thumbnail: /assests/images/chispas_1.jpg
+thumbnail: assests/images/chispas_1.jpg
 ---
 
 
