@@ -9,7 +9,7 @@ thumbnail: assets/images/chispas_1.jpg
 ---
 
 
-## Project Purpose 
+## About the Project
 This project is collecting stories and personal histories of farming within the Middle Rio 
 Grande region of New Mexico. It emerged out of discussions between members of the UNM 
 Food Systems Collaborative and community members involved in food systems work 
