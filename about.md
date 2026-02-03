@@ -12,7 +12,7 @@ thumbnail:
 ## Project Purpose 
 We are conducting oral history interviews with place-based farmers in the Middle Rio Grande with 10+ years of growing.
 
-### Team Members 
+## Team Members 
 
 **Dr. Marygold Walsh-Dilley**, University of New Mexico <br>
 *Associate Professor, Department of Geography & Environmental Studies* 
