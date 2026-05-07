@@ -26,7 +26,6 @@ Sarah Robertson is a co-owner of Loose Leaf Farm with her husband, Mark, whose o
 
 
 
-The text below is mostly filler to show how an essay flows, but we'll call out key features as you encounter them.
 
 
 ## Getting the farm started
@@ -48,7 +47,6 @@ They didn't live on the property that they were farming on until 2021 and practi
 
 Sarah and Mark became involved as vendors at local farmers markets as soon as they could. Becoming established on a farm is just as important as becoming an established community member for farmers who want to make a profit. It takes time to build up your soil to ensure that it has the proper amount of nutrients to successfully grow high quality and bountiful produce, sometimes even years. It takes about the same amount of time to earn the trust of community members shopping at the local food markets in order to make decent sales. 
 
-Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan. Duis quis aliquam nulla.
 
 
 ## Section Headings Create Visual Breaks
