@@ -39,10 +39,7 @@ image-path="images/mvh-history-stays.jpg"
 Sarah and her husband Mike started their first small garden over 10 years ago. It was a “small patch of beets” in their back yard. Sarah mentioned that at the time they were “both making good money and had decent careers.” The small garden brought them joy. When they noticed their priorities shifting to accommodate the needs of the garden they made the life changing decision to dedicate more their time and resources to a small scale farm. 
 
 
-They found a quarter acre of land and started growing radishes, lettuce, beets, and carrots but all in small quantities. The soil had not been built up yet so that harvest did not yield much produce.
-
-
-They didn't live on the property that they were farming on until 2021 and practiced commuter farming. “I don't recommend commuter farming. It's very hard, and you almost always forget a tool somewhere else. Not to mention if you have to go to the bathroom during your workday, god forbid, so, we struggled” says Sarah.
+They found a quarter acre of land and started growing radishes, lettuce, beets, and carrots but all in small quantities. The soil had not been built up yet so that harvest did not yield much produce. They didn't live on the property that they were farming on until 2021 and practiced commuter farming. “I don't recommend commuter farming. It's very hard, and you almost always forget a tool somewhere else. Not to mention if you have to go to the bathroom during your workday, god forbid, so, we struggled” says Sarah.
 
 
 Sarah and Mark became involved as vendors at local farmers markets as soon as they could. Becoming established on a farm is just as important as becoming an established community member for farmers who want to make a profit. It takes time to build up your soil to ensure that it has the proper amount of nutrients to successfully grow high quality and bountiful produce, sometimes even years. It takes about the same amount of time to earn the trust of community members shopping at the local food markets in order to make decent sales. 
