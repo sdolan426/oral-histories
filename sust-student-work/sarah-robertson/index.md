@@ -21,9 +21,9 @@ tags:
 
 
 
-**What makes this a "Seedling" essay?** Sarah Robertson is a co-owner of Loose Leaf Farm with her husband, Mark, whose oral
-history is also included in this collection. Loose Leaf Farm is primarily a vegetable farm on
-the northern side of Albuquerque, NM. 
+Sarah Robertson is a co-owner of Loose Leaf Farm with her husband, Mark, whose oral history is also included in this collection. Loose Leaf Farm is primarily a vegetable farm on the northern side of Albuquerque, NM. Sarah and Mark have been farming for ten years, and they currently cultivate a little less than an acre. They lease the property where they live and farm, but they expect the landowner to sell the property and end their lease next year. They have many geese, ducks, chickens, goats, pigs, and dogs that animate the farm. One particularly charismatic goose named Moo noisily greeted us when we arrived. From the road, the farm is almost completely hidden. Once we drove past the gate, we saw the farm tucked away behind the house with large murals painted, by a relative of the landowner, on the side of the many of the farm structures. 
+
+
 
 
 The text below is mostly filler to show how an essay flows, but we'll call out key features as you encounter them.
