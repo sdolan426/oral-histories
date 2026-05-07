@@ -29,7 +29,7 @@ Sarah Robertson is a co-owner of Loose Leaf Farm with her husband, Mark, whose o
 The text below is mostly filler to show how an essay flows, but we'll call out key features as you encounter them.
 
 
-## Your First Section Heading
+## Getting the farm started
 {% include images/figure.html
 class="right"
 width="48%"
@@ -37,13 +37,16 @@ caption="This is a right-aligned image that takes up roughly half the page width
 image-path="images/mvh-history-stays.jpg"
 %}
 
-This paragraph sits next to a **right-aligned image**. The ScrollStory layout gives images breathing room—you'll never see cramped text squished against a photo. The spacing and typography are designed to feel more like a magazine than a typical web page.
+Sarah and her husband Mike started their first small garden over 10 years ago. It was a “small patch of beets” in their back yard. Sarah mentioned that at the time they were “both making good money and had decent careers.” The small garden brought them joy. When they noticed their priorities shifting to accommodate the needs of the garden they made the life changing decision to dedicate more their time and resources to a small scale farm. 
 
-Notice the caption below the image includes a clickable source link. This is how you maintain scholarly rigor while keeping the visual design clean.[^1]
 
-[^1]: Footnotes work normally in ScrollStories. Click the number to jump to the note, then click the return arrow to come back. This keeps your main text flowing while providing space for citations and elaboration.
+They found a quarter acre of land and started growing radishes, lettuce, beets, and carrots but all in small quantities. The soil had not been built up yet so that harvest did not yield much produce.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus.
+
+They didn't live on the property that they were farming on until 2021 and practiced commuter farming. “I don't recommend commuter farming. It's very hard, and you almost always forget a tool somewhere else. Not to mention if you have to go to the bathroom during your workday, god forbid, so, we struggled” says Sarah.
+
+
+Sarah and Mark became involved as vendors at local farmers markets as soon as they could. Becoming established on a farm is just as important as becoming an established community member for farmers who want to make a profit. It takes time to build up your soil to ensure that it has the proper amount of nutrients to successfully grow high quality and bountiful produce, sometimes even years. It takes about the same amount of time to earn the trust of community members shopping at the local food markets in order to make decent sales. 
 
 Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan. Duis quis aliquam nulla.
 
