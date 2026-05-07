@@ -1,6 +1,6 @@
 ---
 title: Sarah Robertson
-author: Fred Gibbs
+author: Shea Dolan
 layout: scrollstory
 date: 2025-07-21
 thumbnail: images/seedling-card.png
@@ -17,9 +17,14 @@ tags:
 ---
 
 # Sarah Robertson Essay
-This essay demonstrates the **simplest ScrollStory approach**—perfect if you're just learning Markdown or want students to focus on writing rather than complex formatting. As you scroll through, notice the clean, uncluttered design that lets content breathe.
 
-**What makes this a "Seedling" essay?** It uses only basic components: section headings, images with captions, pull quotes, and footnotes. No background switching, no side-scrolling—just straightforward digital storytelling that's more visually engaging than a standard web page.
+
+
+
+**What makes this a "Seedling" essay?** Sarah Robertson is a co-owner of Loose Leaf Farm with her husband, Mark, whose oral
+history is also included in this collection. Loose Leaf Farm is primarily a vegetable farm on
+the northern side of Albuquerque, NM. 
+
 
 The text below is mostly filler to show how an essay flows, but we'll call out key features as you encounter them.
 

@@ -17,7 +17,9 @@ tags:
 ---
 
 # A Seedling Essay
-This essay demonstrates the **simplest ScrollStory approach**—perfect if you're just learning Markdown or want students to focus on writing rather than complex formatting. As you scroll through, notice the clean, uncluttered design that lets content breathe.
+Sarah Robertson is a co-owner of Loose Leaf Farm with her husband, Mark, whose oral
+history is also included in this collection. 
+
 
 **What makes this a "Seedling" essay?** It uses only basic components: section headings, images with captions, pull quotes, and footnotes. No background switching, no side-scrolling—just straightforward digital storytelling that's more visually engaging than a standard web page.
 
